@@ -8,6 +8,6 @@ How to run this code:
 4. After registering multiple users one of the user which will behave like sender will put the name of the receiver to send the message. The format is like:                @[username]: [content of the message]
 5. Once the message is created it will be sent by pressing the enter key. The message will reach to receivers terminal.
 
-   For more details about this Project please refer to the file Solution_Description.pdf.
+----***----        For further details, please refer to **Solution_Description.pdf** file.      ----***----
 
 Thank You !
